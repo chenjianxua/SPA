@@ -1,0 +1,10 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+#mian{
+    width:600px;
+    height: 400px;
+    margin: 0 auto;
+    background-color:red;
+}
